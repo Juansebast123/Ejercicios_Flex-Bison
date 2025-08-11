@@ -1,0 +1,1 @@
+El programa es una calculadora modificada a partir del ejemplo anterior, ahora capaz de reconocer y operar con números hexadecimales, decimales enteros y decimales (float). Utiliza un escáner léxico que detecta patrones para cada tipo numérico, convirtiendo los valores hexadecimales mediante strtol y almacenándolos (float).
