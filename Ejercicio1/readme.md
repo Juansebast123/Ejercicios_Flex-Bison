@@ -1,0 +1,1 @@
+Se adaptó el código del ejercicio anterior (Ejemplo 1-5) para añadir el manejo de comentarios en el escáner, permitiendo que las líneas que comiencen con // sean ignoradas por el analizador. Mantuve la estructura original del escáner y la gramática, añadiendo únicamente la regla necesaria para reconocer y descartar los comentarios antes de que lleguen al parser. 
