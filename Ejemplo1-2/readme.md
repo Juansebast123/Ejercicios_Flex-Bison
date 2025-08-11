@@ -1,0 +1,1 @@
+El programa cumple su función de reemplazo palabra por palabra en ASCII, pero es muy rígido en la coincidencia y no tiene en cuenta variaciones de mayúsculas o signos de puntuación. Ademas, al escribir y correr el codigo del ejemplo se observó que tenia un error, la funcion main se encontraba mal escrita, le hizo falta "int".
