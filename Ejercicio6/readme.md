@@ -1,0 +1,1 @@
+La versión en C fue mucho más rápida en archivos grandes y brindó un control más directo del flujo, lo que facilitó depuración a bajo nivel. Sin embargo, la versión en Flex resultó más fácil de escribir y mantener cuando solo se trataba de definir reglas de reconocimiento de tokens, aunque su rendimiento fue menor debido a la sobrecarga.
