@@ -1,0 +1,1 @@
+El programa funciona como un escáner de tokens aritméticos básico, ideal para pruebas o ejemplos didácticos, pero sin manejo de formatos numéricos avanzados ni contexto semántico. El código carece de una funcion main para que el programa arranque.
